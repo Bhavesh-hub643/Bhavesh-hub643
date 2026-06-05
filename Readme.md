@@ -1,2 +1,3 @@
-Welcome to my github profile!
-I am Bhavesh Jat, 3rd year Undergraduate at IIT(ISM) Dhanbad in Electrical Engineering.
+Hi, I'm Bhavesh Jat 👋
+🎓 Electrical Engineering @ IIT (ISM) Dhanbad (Expected May 2028)
+🌐 Full-Stack Developer 
